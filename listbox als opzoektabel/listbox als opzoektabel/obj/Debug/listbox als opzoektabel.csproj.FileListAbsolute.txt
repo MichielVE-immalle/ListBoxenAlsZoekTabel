@@ -1,0 +1,14 @@
+c:\users\michiel\documents\visual studio 2015\Projects\listbox als opzoektabel\listbox als opzoektabel\bin\Debug\listbox als opzoektabel.exe.config
+c:\users\michiel\documents\visual studio 2015\Projects\listbox als opzoektabel\listbox als opzoektabel\bin\Debug\listbox als opzoektabel.exe
+c:\users\michiel\documents\visual studio 2015\Projects\listbox als opzoektabel\listbox als opzoektabel\bin\Debug\listbox als opzoektabel.pdb
+c:\users\michiel\documents\visual studio 2015\Projects\listbox als opzoektabel\listbox als opzoektabel\obj\Debug\listbox als opzoektabel.csprojResolveAssemblyReference.cache
+c:\users\michiel\documents\visual studio 2015\Projects\listbox als opzoektabel\listbox als opzoektabel\obj\Debug\MainWindow.g.cs
+c:\users\michiel\documents\visual studio 2015\Projects\listbox als opzoektabel\listbox als opzoektabel\obj\Debug\App.g.cs
+c:\users\michiel\documents\visual studio 2015\Projects\listbox als opzoektabel\listbox als opzoektabel\obj\Debug\listbox als opzoektabel_MarkupCompile.cache
+c:\users\michiel\documents\visual studio 2015\Projects\listbox als opzoektabel\listbox als opzoektabel\obj\Debug\listbox als opzoektabel_MarkupCompile.lref
+c:\users\michiel\documents\visual studio 2015\Projects\listbox als opzoektabel\listbox als opzoektabel\obj\Debug\MainWindow.baml
+c:\users\michiel\documents\visual studio 2015\Projects\listbox als opzoektabel\listbox als opzoektabel\obj\Debug\listbox als opzoektabel.g.resources
+c:\users\michiel\documents\visual studio 2015\Projects\listbox als opzoektabel\listbox als opzoektabel\obj\Debug\listbox_als_opzoektabel.Properties.Resources.resources
+c:\users\michiel\documents\visual studio 2015\Projects\listbox als opzoektabel\listbox als opzoektabel\obj\Debug\listbox als opzoektabel.csproj.GenerateResource.Cache
+c:\users\michiel\documents\visual studio 2015\Projects\listbox als opzoektabel\listbox als opzoektabel\obj\Debug\listbox als opzoektabel.exe
+c:\users\michiel\documents\visual studio 2015\Projects\listbox als opzoektabel\listbox als opzoektabel\obj\Debug\listbox als opzoektabel.pdb
